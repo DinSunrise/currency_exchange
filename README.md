@@ -1,6 +1,6 @@
 **1. Склонировать репозиторий:**
 		
-	git clone https://github.com/your-username/currency_exchange.git
+	git clone https://github.com/DinSunrise/currency_exchange.git
 
 **2. Создать виртуальное окружение:**
 
