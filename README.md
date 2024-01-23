@@ -5,7 +5,8 @@
 **2. Создать виртуальное окружение:**
 
 	python -m venv venv
-	source venv/bin/activate # Windows: `venv\Scripts\activate`
+	source venv/bin/activate 
+ 	#Windows: `venv\Scripts\activate`
 
 **3. Установить зависимости:**
 
