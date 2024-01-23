@@ -15,7 +15,6 @@
 
 **4. Мигрировать бд:**
 
-	python manage.py makemigrations
 	python manage.py migrate
 
 **5. Запустить сервер:**
